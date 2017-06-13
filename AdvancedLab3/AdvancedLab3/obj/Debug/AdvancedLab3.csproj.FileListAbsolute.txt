@@ -1,0 +1,6 @@
+c:\users\daniel laptop\documents\visual studio 2013\Projects\AdvancedLab3\AdvancedLab3\bin\Debug\AdvancedLab3.exe.config
+C:\Users\Daniel Laptop\Documents\Visual Studio 2013\Projects\AdvancedLab3\AdvancedLab3\obj\Debug\AdvancedLab3.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Laptop\Documents\Visual Studio 2013\Projects\AdvancedLab3\AdvancedLab3\bin\Debug\AdvancedLab3.exe
+C:\Users\Daniel Laptop\Documents\Visual Studio 2013\Projects\AdvancedLab3\AdvancedLab3\bin\Debug\AdvancedLab3.pdb
+C:\Users\Daniel Laptop\Documents\Visual Studio 2013\Projects\AdvancedLab3\AdvancedLab3\obj\Debug\AdvancedLab3.exe
+C:\Users\Daniel Laptop\Documents\Visual Studio 2013\Projects\AdvancedLab3\AdvancedLab3\obj\Debug\AdvancedLab3.pdb
